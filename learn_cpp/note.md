@@ -12,6 +12,9 @@
 
 - C++ class
   - [C++中“.”和“->”的使用区别](https://blog.csdn.net/u013719339/article/details/80611509)
+  - [c++类的实例化，有没有new的区别](https://www.cnblogs.com/chris-cp/p/3578976.html)
+  - [c++中的初始化列表详解](https://blog.csdn.net/lws123253/article/details/80368047)
+  - [C++使用初始化列表初始化数据成员的三种情况](https://blog.csdn.net/yhc166188/article/details/81586549)
 
 - C++ string
   - [C++ string类（C++字符串）完全攻略](http://c.biancheng.net/view/400.html)
