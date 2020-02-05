@@ -3,6 +3,7 @@
 ## Tutorial and Documentation
 
 - [C++ 教程 | 菜鸟教程](https://www.runoob.com/cplusplus)
+- [Data Structures and Algorithms in C++, 2nd edition](http://file.allitebooks.com/20151209/Data%20Structures%20and%20Algorithms%20in%20C++,%202nd%20edition.pdf)
 
 ## Notable Notions
 
