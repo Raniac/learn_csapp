@@ -16,3 +16,7 @@
 - [ELF文件格式](https://www.cnblogs.com/gatsby123/p/9750187.html)
 - [Linux下静态库.a与.so库文件的生成与使用](https://blog.csdn.net/lisayh/article/details/79726249)
 - [Linux和Windows平台 动态库.so和.dll文件的生成](https://www.cnblogs.com/xhslovecx/p/10613854.html)
+
+## Shell Programming
+
+- [Shell 教程](https://www.runoob.com/linux/linux-shell.html)
