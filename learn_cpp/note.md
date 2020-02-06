@@ -19,9 +19,13 @@
 
 - C++ string
   - [C++ string类（C++字符串）完全攻略](http://c.biancheng.net/view/400.html)
+  - [for(auto &c:s)](https://blog.csdn.net/aaaolivia/article/details/90053352)
 
 - C++ vector
   - [C++ vector 容器浅析](https://www.runoob.com/w3cnote/cpp-vector-container-analysis.html)
+
+- C++ hash map
+  - [unordered_map详细介绍](https://blog.csdn.net/lizhengze1117/article/details/96728468)
 
 - C++ Multithreading
   - [C++ 多线程](https://www.runoob.com/cplusplus/cpp-multithreading.html)
