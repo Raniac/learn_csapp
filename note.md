@@ -20,3 +20,9 @@
 ## Shell Programming
 
 - [Shell 教程](https://www.runoob.com/linux/linux-shell.html)
+
+## Dynamic Memory Allocation
+
+- [CSAPP Dynamic Storage Allocator 动态内存分配器](https://blog.csdn.net/weixin_43821874/article/details/86481632)
+- [Dynamic Memory Allocate(动态内存分配)](https://blog.csdn.net/c602273091/article/details/53576494)
+- [c++ new 与malloc有什么区别](https://www.cnblogs.com/ywliao/articles/8116622.html)
