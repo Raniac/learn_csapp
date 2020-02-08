@@ -49,3 +49,7 @@
 ## Useful Fuctions
 
 - ```reverse``` - [C++ reverse函数的用法](https://www.cnblogs.com/yuanch2019/p/11591995.html)
+
+## Data Structures and Algorithms
+
+- [MySQL数据库中索引的数据结构是什么？（B树和B+树的区别）](https://www.cnblogs.com/linliquan/p/11364428.html)
