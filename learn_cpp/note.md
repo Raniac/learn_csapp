@@ -55,3 +55,7 @@
 ### Trees
 
 - [MySQL数据库中索引的数据结构是什么？（B树和B+树的区别）](https://www.cnblogs.com/linliquan/p/11364428.html)
+
+### String Matching
+
+- [从头到尾彻底理解KMP](https://www.cnblogs.com/zhangtianq/p/5839909.html)
