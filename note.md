@@ -33,3 +33,13 @@
 - [10个你需要了解的Linux 网络和监控命令](https://linux.cn/thread-12491-1-1.html)
 - [初识CGI](https://www.cnblogs.com/xidongyu/p/9029102.html)
 - [web架构的演化 - 从CGI到WSGI](https://www.jianshu.com/p/487cc605868f)
+
+## Concurrent Programming
+
+### Synchronization
+
+- [并发编程导论](https://segmentfault.com/a/1190000018949353?utm_source=tag-newest)
+- [并发编程模式](https://blog.csdn.net/yjclsx/article/details/80923737)
+- [I/O多路复用机制（Epoll）](https://blog.csdn.net/cbjcry/article/details/84926952)
+- [为什么基于事件驱动的服务器能实现高并发？](https://www.zhihu.com/question/64727674/answer/225113965)
+- [信号量(Semaphores)](https://www.jianshu.com/p/6ba83710ab62)
