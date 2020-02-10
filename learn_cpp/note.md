@@ -62,3 +62,4 @@
 
 ### Dynamic Programming
 
+- [如何理解动态规划？](https://www.zhihu.com/question/39948290)

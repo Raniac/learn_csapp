@@ -65,6 +65,35 @@ list<float> myList;
 
 // =========
 
+// =================================================
+// Implementing a Sequence with a Doubly Linked List
+
+class NodeSequence : public NodeList {
+public:
+    Iterator atIndex(int i) const;
+    int indexOf(const Iterator& p) const;
+};
+
+NodeSequence::Iterator NodeSequence::atIndex(int i) const {
+    Iterator p = begin();
+    for (int j = 0; j < i; j++) {
+        ++p;
+    }
+    return p;
+}
+
+int NodeSequence::indexOf(const Iterator& p) const {
+    Iterator q = begin();
+    int j = 0;
+    while (q != p) {
+        ++q;
+        ++j;
+    }
+    return j;
+}
+
+// =================================================
+
 int main() {
     int a[] = {17, 12, 33, 15, 62, 45};
     vector<int> v(a, a+6); // equivalent as v = a[:6] in python
