@@ -42,4 +42,6 @@
 - [并发编程模式](https://blog.csdn.net/yjclsx/article/details/80923737)
 - [I/O多路复用机制（Epoll）](https://blog.csdn.net/cbjcry/article/details/84926952)
 - [为什么基于事件驱动的服务器能实现高并发？](https://www.zhihu.com/question/64727674/answer/225113965)
+- [并发服务器之多线程和多路复用(select)的区别](https://blog.csdn.net/linuxwln/article/details/81941048)
 - [信号量(Semaphores)](https://www.jianshu.com/p/6ba83710ab62)
+- [多线程设计模式：第三篇 - 生产者-消费者模式和读写锁模式](https://www.jianshu.com/p/9d37b08e0348)
