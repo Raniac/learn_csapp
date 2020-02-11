@@ -30,7 +30,7 @@ while Q is not empty do
 return the tree T
 */
 
-// Reference: http://www.shanql.cn/index.php/coding/20190625/204/
+// Reference: https://blog.csdn.net/qq_38279908/article/details/83473010
 
 #include<iostream>
 #include<vector>
