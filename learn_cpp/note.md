@@ -63,3 +63,8 @@
 ### Dynamic Programming
 
 - [如何理解动态规划？](https://www.zhihu.com/question/39948290)
+
+### Shortest Path
+
+- [贝尔曼-福特算法(Bellman–Ford algorithm )油管最好的三个讲解](https://www.bilibili.com/video/av43217121)
+- [Bellman-Ford算法——为什么要循环n-1次？](https://blog.csdn.net/djph26741/article/details/101520472)
