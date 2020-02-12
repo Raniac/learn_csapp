@@ -46,6 +46,11 @@
   ./hello
   ```
 
+- Preprocessors
+  - [C++中#if #ifdef 的作用](https://www.cnblogs.com/renyuan/archive/2013/05/22/3092362.html)
+  - [条件编译宏](https://www.jianshu.com/p/5f362b19ce17)
+  - [宏定义来实现条件编译（#define #undef #ifdef）](https://blog.csdn.net/wangqingchuan92/article/details/77850397)
+
 ## Useful Fuctions
 
 - ```reverse``` - [C++ reverse函数的用法](https://www.cnblogs.com/yuanch2019/p/11591995.html)
