@@ -16,10 +16,13 @@
   - [c++类的实例化，有没有new的区别](https://www.cnblogs.com/chris-cp/p/3578976.html)
   - [c++中的初始化列表详解](https://blog.csdn.net/lws123253/article/details/80368047)
   - [C++使用初始化列表初始化数据成员的三种情况](https://blog.csdn.net/yhc166188/article/details/81586549)
+  - [C++中struct与class的区别是什么？](https://blog.csdn.net/summer00072/article/details/80932376)
 
 - C++ string
   - [C++ string类（C++字符串）完全攻略](http://c.biancheng.net/view/400.html)
   - [for(auto &c:s)](https://blog.csdn.net/aaaolivia/article/details/90053352)
+  - [c++11 for循环中的冒号](https://blog.csdn.net/weixin_39608351/article/details/89307601)
+  - [c++ auto基本用法](https://blog.csdn.net/lwgkzl/article/details/82110068)
 
 - C++ vector
   - [C++ vector 容器浅析](https://www.runoob.com/w3cnote/cpp-vector-container-analysis.html)
