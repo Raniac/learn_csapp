@@ -31,6 +31,9 @@
 - C++ hash map
   - [unordered_map详细介绍](https://blog.csdn.net/lizhengze1117/article/details/96728468)
 
+- C++ heap
+  - [STL 堆heap的用法](https://blog.csdn.net/zsc2014030403015/article/details/45872737)
+
 - C++ Multithreading
   - [C++ 多线程](https://www.runoob.com/cplusplus/cpp-multithreading.html)
 
@@ -71,6 +74,7 @@
 ### Dynamic Programming
 
 - [如何理解动态规划？](https://www.zhihu.com/question/39948290)
+- [最长公共子序列(LCS) 最长公共子串](https://blog.csdn.net/bitcarmanlee/article/details/88977705)
 
 ### Shortest Path
 
