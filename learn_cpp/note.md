@@ -67,6 +67,11 @@
 
 - [MySQL数据库中索引的数据结构是什么？（B树和B+树的区别）](https://www.cnblogs.com/linliquan/p/11364428.html)
 
+### Hash Tables, Maps, and Skip Lists
+
+- [神奇的算法：HashMap(哈希映射)](https://blog.csdn.net/Jekin_KE/article/details/83120144)
+- [跳跃表的原理及实现](https://blog.csdn.net/qpzkobe/article/details/80056807)
+
 ### String Matching
 
 - [从头到尾彻底理解KMP](https://www.cnblogs.com/zhangtianq/p/5839909.html)
