@@ -63,9 +63,10 @@
 
 ## Data Structures and Algorithms
 
-### Trees
+### Search Trees
 
 - [MySQL数据库中索引的数据结构是什么？（B树和B+树的区别）](https://www.cnblogs.com/linliquan/p/11364428.html)
+- [iterator迭代器和指针的区别](https://blog.csdn.net/gogokongyin/article/details/51206225)
 
 ### Hash Tables, Maps, and Skip Lists
 
