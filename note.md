@@ -6,6 +6,9 @@
 
 ## The Memory Hierarchy
 
+- [计算机基础之主存和磁盘(十一)](https://blog.csdn.net/qq_31403321/article/details/80601215)
+- 不同层级存储器速度差距很大，而程序对内存的访问具有局部性(时间/空间)，缓存机制利用局部性来弥补存储器层级差距。
+
 ### Cache Memories
 
 - [深入理解处理器高速缓存的工作机制](https://www.cnblogs.com/snsart/p/10700599.html)
@@ -25,7 +28,9 @@
 
 - [CSAPP Dynamic Storage Allocator 动态内存分配器](https://blog.csdn.net/weixin_43821874/article/details/86481632)
 - [Dynamic Memory Allocate(动态内存分配)](https://blog.csdn.net/c602273091/article/details/53576494)
+- [堆栈和内存分配](https://blog.csdn.net/dai_wen/article/details/78407709)
 - [c++ new 与malloc有什么区别](https://www.cnblogs.com/ywliao/articles/8116622.html)
+- [C++中对象new出来和直接声明的区别](https://blog.csdn.net/qq_43269048/article/details/90139907)
 
 ## Network Programming
 
