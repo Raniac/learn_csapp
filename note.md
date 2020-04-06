@@ -31,6 +31,7 @@
 - [堆栈和内存分配](https://blog.csdn.net/dai_wen/article/details/78407709)
 - [c++ new 与malloc有什么区别](https://www.cnblogs.com/ywliao/articles/8116622.html)
 - [C++中对象new出来和直接声明的区别](https://blog.csdn.net/qq_43269048/article/details/90139907)
+- [内存溢出(Memory Overflow)和内存泄露(Memory Leak)的区别](https://blog.csdn.net/u013519020/article/details/52347173)
 
 ## Network Programming
 
@@ -38,6 +39,8 @@
 - [10个你需要了解的Linux 网络和监控命令](https://linux.cn/thread-12491-1-1.html)
 - [初识CGI](https://www.cnblogs.com/xidongyu/p/9029102.html)
 - [web架构的演化 - 从CGI到WSGI](https://www.jianshu.com/p/487cc605868f)
+- [访问一个网页的全过程](https://blog.csdn.net/u012862311/article/details/78753232)
+  - 首先通过域名找到IP，如果缓存里没有就要请求DNS服务器；得到IP后开始与目的主机进行三次握手来建立TCP连接；连接建立后进行HTTP访问，传输并获取网页内容；传输完后与目的主机四次挥手来断开TCP连接。
 
 ## Concurrent Programming
 
